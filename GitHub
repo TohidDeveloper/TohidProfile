@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/Aakashdeveloper/Aakashdeveloper/master/README.md
+
+
+echo "# tohidprofile" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https//:Tohiddeveloper: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@github.com/Tohiddeveloper/tohidprofile.git
+git push -u origin main
