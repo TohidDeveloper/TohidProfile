@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
+
+header{
+    height: 60px;
+    width: 100%;
+    background-color:rgb(175, 145, 145);
+    
+
+}
+#Profile{
+    color:#fff;
+    font-size:30px;
+    float:left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+#social{
+    float:right;
+    margin-top: 7px;
+    margin-right: 1%;
+}
+.socialImage{
+    height: 50px;
+
+}
+
+#profileimage{
+    height: 25px;
+    width: 25%;
+    margin-top: -0.1%;
+    position: absolute;
+}
+#aboutprofile{
+    height: 52px;
+    width: 100%;
+    background-color: blue;
+    margin-left: 15%;
+    margin-top: 1%;
+
+
+    
+}
+.aboutinfo{
+    margin-left: 15%;
+    margin-top: 3%;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#aboutskills{
+    height: 50px;
+    width:100%;
+    background-color: orange;
+    margin-top: 6%;
+    margin-left: 1%;
+    text-align: center;
+}
+#skills{
+    margin-top: 70px;
+    margin-right: 1%;
+    float: left;
+}
+.skillsImg{
+    height: 150px;
+    margin-top: 2%;
+}
+footer{
+    text-align: center;
+    color: #fff;
+    margin-top: 500px
+}

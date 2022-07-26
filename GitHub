@@ -6,5 +6,11 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https//:Tohiddeveloper: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@github.com/Tohiddeveloper/tohidprofile.git
+git remote add origin https://github.com/Tohiddeveloper/tohidprofile.git
 git push -u origin main
+
+
+//next all time from same folder
+git add .
+git commit -m "first commit"
+git push
