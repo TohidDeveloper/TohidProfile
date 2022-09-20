@@ -10,8 +10,7 @@ header{
     height: 60px;
     width: 100%;
     background-color:rgb(175, 145, 145);
-    
-
+    width: 100%;
 }
 #Profile{
     color:#fff;
@@ -38,13 +37,10 @@ header{
 }
 #aboutprofile{
     height: 52px;
-    width: 100%;
+    width: 84%;
     background-color: blue;
     margin-left: 15%;
     margin-top: 1%;
-
-
-    
 }
 .aboutinfo{
     margin-left: 15%;
@@ -52,10 +48,11 @@ header{
     color: #fff;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
+    
 }
 #aboutskills{
     height: 50px;
-    width:100%;
+    width:98%;
     background-color: orange;
     margin-top: 6%;
     margin-left: 1%;
